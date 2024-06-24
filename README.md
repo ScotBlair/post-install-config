@@ -18,18 +18,30 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Item 1<br/>
-Adding a new Help Desk agent
+Configure Roles
 
 - Item 2<br/>
-Creating Help Topics for support ticket
+Configure Departments
 
 - Item 3<br/>
-Adding new users to the system
+Configure Teams
 
 - Item 4<br/>
-Creating support tickets for end users
+Configure Agents
 
-<h2>Configuration Steps</h2>
+- Item 5<br/>
+Configure Users
+
+- Item 6<br/>
+Configure SLA's
+
+- Item 7<br/>
+Configure Help Topics
+
+- Item 8<br/>
+Creating tickets for end users
+
+<!--<h2>Configuration Steps</h2>
 
 - Step 1<br/>
 Inside osTicket, navigate to the "Agents" tab 
