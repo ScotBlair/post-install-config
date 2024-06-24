@@ -17,13 +17,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-<br/>- Item 1<br/>
+- Item 1<br/>
 Adding a new Help Desk agent
-- Item 2
+
+- Item 2<br/>
 Creating support ticket Help Topics
-- Item 3
+
+- Item 3<br/>
 Adding new users to the system
-- Item 4
+
+- Item 4<br/>
 Creating support tickets for end users
 
 <h2>Configuration Steps</h2>
