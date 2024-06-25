@@ -17,31 +17,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1<br/>
-Configure Roles
+- [Configure Roles](https://github.com/ScotBlair/config-roles)<br/>
 
-- Item 2<br/>
-Configure Departments
+- [Configure Departments](https://github.com/ScotBlair/config-departments)<br/>
 
-- Item 3<br/>
-Configure Teams
+- [Configure Teams](https://github.com/ScotBlair/config-teams)<br/>
 
-- Item 4<br/>
-Configure Agents
+- [Configure Agents/Workers](https://github.com/ScotBlair/config-agents)<br/>
 
-- Item 5<br/>
-Configure Users
+- [Configure End Users](https://github.com/ScotBlair/config-users)<br/>
 
-- Item 6<br/>
-Configure SLA's
+- [Configure SLA's](https://github.com/ScotBlair/config-sla)<br/>
 
-- Item 7<br/>
-Configure Help Topics
+- [Configure Help Topics](https://github.com/ScotBlair/config-help-topics)<br/>
 
-- Item 8<br/>
-Creating tickets for end users
+<!-- [Creating tickets for end users](https://github.com/ScotBlair/config-tickets)<br/>
 
-<!--<h2>Configuration Steps</h2>
+-<h2>Configuration Steps</h2>
 
 - Step 1<br/>
 Inside osTicket, navigate to the "Agents" tab 
