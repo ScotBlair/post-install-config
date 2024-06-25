@@ -32,26 +32,3 @@ This tutorial outlines the post-install configuration of the open-source help de
 - [Configure Help Topics](https://github.com/ScotBlair/config-help-topics)<br/>
 
 <!-- [Creating tickets for end users](https://github.com/ScotBlair/config-tickets)<br/>
-
--<h2>Configuration Steps</h2>
-
-- Step 1<br/>
-Inside osTicket, navigate to the "Agents" tab 
-
-- Step 2<br/>
-
-- Step 3<br/>
-
-- Step 4<br/>
-
-- Step 5<br/>
-
-- Step 6<br/>
-
-- Step 7<br/>
-
-- Step 8<br/>
-
-- Step 9<br/>
-
-- Step 10<br/>
